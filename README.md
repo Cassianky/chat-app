@@ -13,6 +13,7 @@ This project is a prototype of a Generative AI app that serves as a self-introdu
 
 ## Project Structure
 generative-ai-app/
+
 |-- client/           # Frontend React app
 
 |-- server/           # Node.js server
