@@ -1,5 +1,4 @@
-# chatgpt
-Chat application powered with OpenAI API
+# Chat application powered with OpenAI API
 
 1. Clone the project
 2. Cd to client folder and `npm install`
