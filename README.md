@@ -14,10 +14,15 @@ This project is a prototype of a Generative AI app that serves as a self-introdu
 ## Project Structure
 generative-ai-app/
 |-- client/           # Frontend React app
+
 |-- server/           # Node.js server
+
 |-- node_modules/     # Dependency folders
+
 |-- .gitignore        # Git ignore file
+
 |-- README.md         # Project documentation
+
 |-- package.json      # Node.js dependencies
 
 ## Setup Instructions
